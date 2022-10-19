@@ -9,3 +9,7 @@ Ensino fundamental completo e atualmente cursando o 6º Semestre do curso técni
 # Conhecimentos de programação
 
 HTML, CSS, MySql, NEXT.js, NODE.js e JS
+
+#  Passatempos
+
+Jogar futebol, jogar vôlei e praticar musculação.
