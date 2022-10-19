@@ -13,3 +13,9 @@ HTML, CSS, MySql, NEXT.js, NODE.js e JS
 #  Passatempos
 
 Jogar futebol, jogar vôlei e praticar musculação.
+
+# Séries 
+
+Supernatural
+Breaking Bad - A Química do Mal
+Peaky Blinders
